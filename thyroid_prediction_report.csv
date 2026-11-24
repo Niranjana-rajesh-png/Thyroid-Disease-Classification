@@ -1,0 +1,8 @@
+Model,Predicted class
+KNN,Negative
+Gaussian Naive Bayes,Hyperthyroid
+Decision Tree,Negative
+KNN (oversampled),Negative
+Gaussian Naive Bayes (oversampled),Hyperthyroid
+Decision Tree (oversampled),Negative
+Final majority-vote result,Negative
