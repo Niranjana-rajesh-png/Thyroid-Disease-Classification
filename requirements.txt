@@ -1,0 +1,14 @@
+# For the Streamlit app
+streamlit
+pandas
+numpy
+joblib
+# IMPORTANT: the saved models only load with the same scikit-learn version used to train them.
+# In Colab run:  import sklearn; print(sklearn.__version__)   then replace the next line, e.g. scikit-learn==1.6.1
+scikit-learn
+
+# Only needed to re-run the notebook
+imbalanced-learn
+scipy
+matplotlib
+seaborn
